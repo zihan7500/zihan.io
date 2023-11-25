@@ -1,0 +1,200 @@
+﻿Serial,ID,First_Name,Last_Name,Major,Address,CGPA,Credits
+1,A00200,John,Smith,Computer Science,Ohio,3.5,12
+2,A00201,Mary,Johnson,Psychology,Virginia,3.75,14
+3,A00202,James,Brown,Electrical Engineering,Vermont,3.25,16
+4,A00203,Linda,Davis,Nursing,West Virginia,2.5,13
+5,A00204,Robert,Wilson,Biology,West Virginia,3.5,16
+6,A00205,Patricia,White,History,West Virginia,3.75,12
+7,A00206,Michael,Anderson,Business Management,West Virginia,2.9,12
+8,A00207,Jennifer,Miller,Environmental Science,West Virginia,3.25,12
+9,A00208,William,Jones,Mechanical Engineering,West Virginia,3.9,16
+10,A00209,Susan,Taylor,English Literature,West Virginia,3.8,15
+11,A00210,David,Clark,Political Science,West Virginia,2.75,14
+12,A00211,Karen,Martinez,Physics,West Virginia,2.9,12
+13,A00212,Richard,Harris,Economics,West Virginia,3.5,12
+14,A00213,Lisa,Thomas,Anthropology,West Virginia,3.9,12
+15,A00214,Charles,Walker,Theater,West Virginia,3.5,16
+16,A00215,Nancy,Moore,Public Health,West Virginia,4,16
+17,A00216,Joseph,Turner,Music,West Virginia,3.5,16
+18,A00217,Margaret,Allen,Journalism,West Virginia,3.25,14
+19,A00218,Thomas,Hall,Sociology,West Virginia,2.5,12
+20,A00219,Elizabeth,Wilson,Chemistry,West Virginia,3.75,13
+21,A00220,Daniel,Jackson,Art History,West Virginia,3.85,15
+22,A00221,Sandra,Young,Civil Engineering,West Virginia,3.17,16
+23,A00222,Matthew,Lewis,Criminology,West Virginia,2.5,16
+24,A00223,Deborah,Harris,Gender Studies,West Virginia,3.5,12
+25,A00224,Christopher,Adams,Communications,West Virginia,3.7,12
+26,A00225,Ruth,Martin,Geology,West Virginia,2.9,16
+27,A00226,Donald,Lewis,Philosophy,West Virginia,3.5,16
+28,A00227,Cynthia,Johnson,Linguistics,Ohio,2.4,14
+29,A00228,Mark,Lee,Astronomy,Ohio,3.5,14
+30,A00229,Helen,Thompson,Political Science,Ohio,3.75,14
+31,A00230,Paul,Baker,Sociology,Ohio,3.5,14
+32,A00231,Betty,Scott,Psychology,Ohio,3.75,16
+33,A00232,George,Green,Nursing,Ohio,3.25,16
+34,A00233,Laura,Mitchell,Theater,Ohio,2.5,16
+35,A00234,Kenneth,Nelson,History,Maryland,3.5,16
+36,A00235,Donna,Anderson,Computer Science,Maryland,3.75,12
+37,A00236,Edward,King,Economics,Maryland,2.9,12
+38,A00237,Carol,Wright,Biology,Maryland,3.25,18
+39,A00238,Brian,Evans,Music,Maryland,3.9,13
+40,A00239,Pamela,Brown,Public Health,Maryland,3.8,12
+41,A00240,Ronald,Taylor,English Literature,Maryland,2.75,16
+42,A00241,Diane,Parker,Anthropology,Maryland,2.9,18
+43,A00242,Anthony,Roberts,Environmental Science,Iowa,3.5,16
+44,A00243,Kathleen,Carter,Mechanical Engineering,Iowa,3.9,16
+45,A00244,Kevin,Robinson,Chemistry,Iowa,3.5,14
+46,A00245,Rebecca,Turner,Business Management,Iowa,4,12
+47,A00246,Thomas,Wilson,Art History,Iowa,3.5,14
+48,A00247,Sharon,Murphy,Gender Studies,Iowa,3.25,14
+49,A00248,Ronald,Stewart,Communications,Iowa,2.5,16
+50,A00249,Donna,Allen,Geology,Iowa,3.75,16
+51,A00250,Timothy,Moore,Philosophy,Iowa,3.85,16
+52,A00251,Laura,Mitchell,Sociology,Iowa,3.17,16
+53,A00252,Patrick,Martin,Linguistics,Iowa,2.5,16
+54,A00253,Cynthia,Davis,Criminology,Iowa,3.5,12
+55,A00254,Charles,Allen,Journalism,Iowa,3.7,18
+56,A00255,Maria,White,Physics,Iowa,2.9,13
+57,A00256,Jeffrey,Mitchell,Theater,New York,3.5,14
+58,A00257,Michelle,Walker,Political Science,New York,2.4,14
+59,A00258,Andrew,Jackson,Public Health,New York,3.5,14
+60,A00259,Patricia,Thomas,Nursing,New York,3.75,16
+61,A00260,Stephen,Thompson,Anthropology,New York,3.5,16
+62,A00261,Linda,Lewis,Computer Science,New York,3.75,16
+63,A00262,Gregory,Young,Sociology,New York,3.25,16
+64,A00263,Deborah,Wilson,Music,New York,2.5,16
+65,A00264,Samuel,Johnson,Economics,New York,3.5,12
+66,A00265,Jessica,Davis,Environmental Science,New York,3.75,12
+67,A00266,Frank,Smith,Business Management,New York,2.9,12
+68,A00267,Lisa,Turner,Philosophy,New York,3.25,12
+69,A00268,Brian,Anderson,Economics,California,3.9,16
+70,A00269,Karen,Adams,Biology,California,3.8,14
+71,A00270,Scott,Thomas,Sociology,California,2.75,14
+72,A00271,Wendy,Martin,Astronomy,California,2.9,16
+73,A00272,Eric,Harris,Political Science,California,3.5,16
+74,A00273,Ruth,Brown,Psychology,California,3.9,15
+75,A00274,Philip,Wilson,History,California,3.5,12
+76,A00275,Melissa,Hall,Anthropology,West Virginia,4,16
+77,A00276,Jerry,Moore,Theater,West Virginia,3.5,12
+78,A00277,Angela,Wright,Computer Science,West Virginia,3.25,14
+79,A00278,Ryan,Clark,Public Health,West Virginia,2.5,16
+80,A00279,Carolyn,Parker,Philosophy,West Virginia,3.75,16
+81,A00280,Lawrence,Lee,Music,West Virginia,3.85,14
+82,A00281,Sarah,Taylor,Environmental Science,West Virginia,3.17,14
+83,A00282,Wayne,Davis,Business Management,West Virginia,2.5,12
+84,A00283,Martha,Lewis,English Literature,West Virginia,3.5,16
+85,A00284,Peter,Allen,Political Science,West Virginia,3.7,18
+86,A00285,Diane,Roberts,Sociology,West Virginia,2.9,12
+87,A00286,Alan,Carter,Geology,West Virginia,3.5,16
+88,A00287,Jane,Scott,Criminology,West Virginia,2.4,12
+89,A00288,Roger,Nelson,History,West Virginia,3.5,16
+90,A00289,Ann,Martinez,Journalism,West Virginia,3.75,14
+91,A00290,Terry,Anderson,Philosophy,West Virginia,3.5,14
+92,A00291,Christine,Miller,Theater,West Virginia,3.75,14
+93,A00292,Jack,Hall,Physics,West Virginia,3.25,16
+94,A00293,Victoria,Turner,Computer Science,West Virginia,2.5,12
+95,A00294,Timothy,Davis,Linguistics,West Virginia,3.5,12
+96,A00295,Alice,White,Environmental Science,West Virginia,3.75,12
+97,A00296,Walter,Mitchell,Mechanical Engineering,West Virginia,2.9,12
+98,A00297,Ann,Johnson,Public Health,West Virginia,3.25,16
+99,A00298,Terry,Wright,Music,West Virginia,3.9,18
+100,A00299,Beverly,Adams,Economics,West Virginia,3.8,12
+101,A00300,Jesse,Martin,Sociology,West Virginia,2.75,12
+102,A00301,Joyce,Thompson,Journalism,West Virginia,2.9,18
+103,A00302,Raymond,Harris,Public Health,West Virginia,3.5,16
+104,A00303,Marilyn,King,Political Science,West Virginia,3.9,12
+105,A00304,Gregory,Wilson,Geology,West Virginia,3.5,12
+106,A00305,Teresa,Robinson,Anthropology,West Virginia,4,14
+107,A00306,Jesse,Turner,Chemistry,West Virginia,3.5,16
+108,A00307,Theresa,Smith,Gender Studies,West Virginia,3.25,16
+109,A00308,Jose,Mitchell,Political Science,West Virginia,2.5,12
+110,A00309,Gail,Scott,Environmental Science,West Virginia,3.75,18
+111,A00310,Alan,Hall,Psychology,West Virginia,3.85,12
+112,A00311,Louise,Young,Economics,West Virginia,3.17,12
+113,A00312,Harold,Allen,Nursing,West Virginia,2.5,18
+114,A00313,Christine,Harris,Computer Science,West Virginia,3.5,16
+115,A00314,Gerald,Baker,Biology,West Virginia,3.7,16
+116,A00315,Amy,Clark,Anthropology,West Virginia,2.9,16
+117,A00316,Harry,Anderson,Theater,New Jersy,3.5,12
+118,A00317,Bonnie,Roberts,Criminology,New Jersy,2.4,12
+119,A00318,Larry,Taylor,Sociology,New Jersy,3.5,12
+120,A00319,Susan,Lewis,History,New Jersy,3.75,14
+121,A00320,Johnny,Johnson,Music,New Jersy,3.5,14
+122,A00321,Suzanne,Wilson,Political Science,New Jersy,3.75,14
+123,A00322,Samuel,Walker,Geology,New Jersy,3.25,14
+124,A00323,Martha,Turner,Journalism,New Jersy,2.5,16
+125,A00324,Raymond,Miller,Linguistics,New Jersy,3.5,16
+126,A00325,Anne,Davis,Art History,New Jersy,3.75,16
+127,A00326,Louis,Green,Communications,New Jersy,2.9,14
+128,A00327,Melissa,Carter,Public Health,New Jersy,3.25,12
+129,A00328,Bruce,Thompson,Environmental Science,New Jersy,3.9,12
+130,A00329,Marilyn,Thomas,Chemistry,Virginia,3.8,14
+131,A00330,Kenneth,White,Gender Studies,Virginia,2.75,14
+132,A00331,Jacqueline,Martin,Political Science,Virginia,2.9,12
+133,A00332,Victor,Parker,Environmental Science,Virginia,3.5,16
+134,A00333,Rhonda,Mitchell,Psychology,Virginia,3.9,16
+135,A00334,Aaron,Hall,Economics,Virginia,3.5,12
+136,A00335,Anne,Harris,Sociology,Virginia,4,12
+137,A00336,Carl,Lewis,Nursing,Virginia,3.5,16
+138,A00337,Rachel,Davis,Business Management,Virginia,3.25,18
+139,A00338,Jesse,Wright,Philosophy,Virginia,2.5,12
+140,A00339,Lisa,Johnson,Communications,Virginia,3.75,15
+141,A00340,Gerald,Adams,Public Health,Virginia,3.85,14
+142,A00341,Janice,King,Geology,Virginia,3.17,16
+143,A00342,Stephen,Clark,Anthropology,Virginia,2.5,16
+144,A00343,Theresa,Carter,Chemistry,West Virginia,3.5,12
+145,A00344,Christopher,Allen,Gender Studies,West Virginia,3.7,14
+146,A00345,Carolyn,Roberts,Astronomy,West Virginia,2.9,12
+147,A00346,Alan,Baker,Sociology,West Virginia,3.5,12
+148,A00347,Suzanne,Martinez,Nursing,West Virginia,2.4,16
+149,A00348,Harry,Taylor,Business Management,West Virginia,3.5,14
+150,A00349,Judith,Moore,Philosophy,West Virginia,3.75,16
+151,A00350,Patrick,Turner,Criminology,West Virginia,3.5,12
+152,A00351,Beverly,Young,Psychology,West Virginia,3.75,14
+153,A00352,Phillip,Wilson,Music,West Virginia,3.25,16
+154,A00353,Judith,Walker,Economics,West Virginia,2.5,12
+155,A00354,Douglas,Jackson,Art History,West Virginia,3.5,16
+156,A00355,Cynthia,Davis,Gender Studies,West Virginia,3.75,12
+157,A00356,Carl,Lewis,Philosophy,West Virginia,2.9,16
+158,A00357,Linda,King,Communications,West Virginia,3.25,14
+159,A00358,Edward,Miller,Biology,West Virginia,3.9,14
+160,A00359,Julia,Taylor,Chemistry,West Virginia,3.8,16
+161,A00360,Cheryl,Thomas,Gender Studies,West Virginia,2.75,12
+162,A00361,Roger,Brown,Political Science,West Virginia,2.9,16
+163,A00362,Sharon,Carter,Environmental Science,West Virginia,3.5,14
+164,A00363,Dennis,Harris,Psychology,West Virginia,3.9,12
+165,A00364,Joyce,Scott,Economics,West Virginia,3.5,12
+166,A00365,Willie,Allen,Sociology,West Virginia,4,12
+167,A00366,Heather,Hall,Nursing,West Virginia,3.5,14
+168,A00367,Anthony,Wilson,Business Management,West Virginia,3.25,16
+169,A00368,Paula,Smith,Philosophy,West Virginia,2.5,16
+170,A00369,Gerald,Turner,Communications,Texas,3.75,14
+171,A00370,Angela,Martinez,Public Health,Texas,3.85,12
+172,A00371,Ralph,Robinson,Geology,Texas,3.17,12
+173,A00372,Donna,Jones,Anthropology,Texas,2.5,16
+174,A00373,Ronald,White,Chemistry,Texas,3.5,14
+175,A00374,Dorothy,Davis,Gender Studies,Texas,3.7,12
+176,A00375,Walter,Clark,Astronomy,Texas,2.9,18
+177,A00376,Margaret,Parker,Sociology,Texas,3.5,12
+178,A00377,Albert,Harris,Nursing,Texas,2.4,12
+179,A00378,Judith,Allen,Business Management,Texas,3.5,16
+180,A00379,Carl,Baker,Philosophy,Florida,3.75,12
+181,A00380,Kimberly,Mitchell,Criminology,Florida,3.5,12
+182,A00381,Terry,Taylor,Psychology,Florida,3.75,12
+183,A00382,Cynthia,Martin,Music,Florida,3.25,14
+184,A00383,Douglas,Lewis,Economics,Florida,2.5,14
+185,A00384,Alice,Turner,Art History,Florida,3.5,12
+186,A00385,Jesse,Wilson,Gender Studies,Florida,3.75,12
+187,A00386,Louise,Johnson,Philosophy,Florida,2.9,16
+188,A00387,Victor,Adams,Communications,Florida,3.25,16
+189,A00388,Evelyn,Wright,Biology,Florida,3.9,12
+190,A00389,Bobby,Anderson,Philosophy,Florida,3.8,16
+191,A00390,Carol,Hall,Theater,Florida,2.75,18
+192,A00391,Jerry,Scott,Physics,Atlanta,2.9,12
+193,A00392,Frances,White,Computer Science,Atlanta,3.5,12
+194,A00393,Tony,Martin,Linguistics,Atlanta,3.9,12
+195,A00394,Theresa,Lewis,Environmental Science,Atlanta,3.5,16
+196,A00395,Alan,Carter,Mechanical Engineering,Atlanta,4,16
+197,A00396,Rachel,Johnson,Public Health,Atlanta,3.5,16
+198,A00397,Randy,Davis,Music,Atlanta,3.25,16
+199,A00398,Lisa,Turner,Computer Science,Atlanta,2.5,12
